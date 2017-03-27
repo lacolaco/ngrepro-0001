@@ -1,0 +1,29 @@
+{
+  "name": "ngrepro-0001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ngc": "ngc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laco0416/ngrepro-0001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laco0416/ngrepro-0001/issues"
+  },
+  "homepage": "https://github.com/laco0416/ngrepro-0001#readme",
+  "dependencies": {
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "rxjs": "^5.2.0",
+    "zone.js": "^0.8.5"
+  }
+}
